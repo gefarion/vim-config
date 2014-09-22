@@ -104,9 +104,6 @@ set tabstop=4
 set shiftwidth=4
 set textwidth=100
 
-" tab length exceptions on some file types
-autocmd FileType python setlocal set expandtab
-
 " always show status bar
 set ls=2
 
